@@ -1,6 +1,6 @@
 ---
 name: eagle-query-fetch-images
-description: Query and retrieve images from an existing Eagle library through local Eagle API, including latest image lookup, keyword search, preview path resolution, and path-safe file retrieval. Use when users ask to find images in Eagle, fetch recent photos (e.g. "最近保存的2张照片"), or return image paths/previews from Eagle without importing new items.
+description: 从 Eagle 库查询和获取图片 - 通过本地 Eagle API 实现最新图片查找、关键词搜索、预览路径解析和安全文件检索。
 ---
 
 # Eagle Query Fetch Images
