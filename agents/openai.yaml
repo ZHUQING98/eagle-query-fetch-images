@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eagle Query Fetch Images"
+  short_description: "Search and fetch recent images from Eagle libraries"
+  default_prompt: "Find images in Eagle by keyword or latest-first order, then return preview paths and concise metadata."
